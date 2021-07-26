@@ -5,43 +5,7 @@
 	ipset destroy
 	ipset create whitelist hash:net
 
-	ipset add whitelist 45.145.167.72
-	ipset add whitelist 5.135.143.71
-	ipset add whitelist 45.145.167.47
-	ipset add whitelist 77.199.56.27
-	ipset add whitelist 51.91.214.112
-	ipset add whitelist 127.0.0.1
-	ipset add whitelist 194.9.172.103
-	ipset add whitelist 194.9.172.213
-	ipset add whitelist 194.9.172.216
-	ipset add whitelist 194.9.172.101
-	ipset add whitelist 194.9.172.247
-	ipset add whitelist 194.9.172.214
-	ipset add whitelist 194.9.172.102
-	ipset add whitelist 194.9.172.220
-	ipset add whitelist 104.18.26.120
-	ipset add whitelist 51.91.214.112
-	ipset add whitelist 51.91.21.55
-	ipset add whitelist 51.91.22.57
-	ipset add whitelist 51.91.21.135
-	ipset add whitelist 51.91.139.192
-	ipset add whitelist 51.159.31.33
-	ipset add whitelist 104.22.46.177
-	ipset add whitelist 46.105.28.192
-	ipset add whitelist 144.76.27.28
-	ipset add whitelist 172.67.38.114
-	ipset add whitelist 176.31.236.143
-	ipset add whitelist 178.32.9.100
-	ipset add whitelist 178.33.224.212
-	ipset add whitelist 146.59.193.195
-	ipset add whitelist 51.210.126.15
-	ipset add whitelist 146.59.204.24
-	ipset add whitelist 51.178.63.83
-	ipset add whitelist 51.91.137.120
-	ipset add whitelist 146.59.204.24
-	ipset add whitelist 51.91.139.192
-	ipset add whitelist 51.210.127.214
-
+	ipset add whitelist 77.77.77.78
 
 
 
